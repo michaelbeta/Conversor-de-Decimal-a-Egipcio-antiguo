@@ -1,0 +1,12 @@
+C:\Users\betan\source\repos\Numeros egipcios\bin\Debug\Numeros egipcios.exe.config
+C:\Users\betan\source\repos\Numeros egipcios\bin\Debug\Numeros egipcios.exe
+C:\Users\betan\source\repos\Numeros egipcios\bin\Debug\Numeros egipcios.pdb
+C:\Users\betan\source\repos\Numeros egipcios\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.csprojAssemblyReference.cache
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros_egipcios.Numeros_Egipcios.resources
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros_egipcios.Properties.Resources.resources
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.csproj.GenerateResource.cache
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.csproj.CoreCompileInputs.cache
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.csproj.CopyComplete
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.exe
+C:\Users\betan\source\repos\Numeros egipcios\obj\Debug\Numeros egipcios.pdb
